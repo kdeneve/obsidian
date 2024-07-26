@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "02873b1d1f86db46",
+        "id": "f60f076af474e44e",
         "type": "tabs",
         "children": [
           {
-            "id": "e4c2000adb9f6aa7",
+            "id": "00bd1dc11d1b7211",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "58ac64d54235c82e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kurt de neve.md",
-                "mode": "preview",
+                "file": "test.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kurt de neve.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kurt de neve.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kurt de neve.md"
+                "file": "test.md"
               }
             }
           }
@@ -147,37 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4c2000adb9f6aa7",
+  "active": "79503eed53d32f65",
   "lastOpenFiles": [
-    "Maaaaar .. ik denk dat het werkt.md",
-    "nieuw artikel.md",
-    "Nieuwe nota na installatie syncthing fork.md",
-    "sync met.md",
-    "waarom toch.md",
-    "wat gebeurt toch.md",
-    "Werkt de sync nog?.md",
-    "kurt de neve.md",
-    "Honey Fe Dela Cruz.md",
-    "hallo ik ben kurt.md",
-    "Dit wordt niet meer gesynced Untitled.md",
-    "dat ben ik.md",
-    "het werkt weer allez.md",
-    "altijd die undefined.md",
-    "Werkt de sync nog?.sync-conflict-20240724-220907-MZXFVMV.md",
-    "geen sync voor canvas.md",
-    "Zoeloe.md",
-    "Yoeho.md",
-    "aaabajaaa.md",
-    "Who is Honey?.md",
-    "zzzzzzzzzzzzeeeeeeg.md",
-    "geen sync voor canvas.sync-conflict-20240722-224852-2OAFIRY.md",
-    "geen sync voor canvas.sync-conflict-20240722-223452-MZXFVMV.md",
-    "Canvas.canvas",
-    "Artikel.md",
-    "Mapje met vanalles/2de bestand in map.md",
-    "Mapje met vanalles/Pff die fucking Untitled.md",
-    "Untitled",
-    "Mapje met vanalles",
-    "Obs on fedora"
+    "Obs on fedora",
+    "test.md",
+    "Welcome.md"
   ]
 }

@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"346c7bad5a984221","x":-605,"y":-190,"width":250,"height":29,"color":"1","type":"text","text":"kurt"},
+		{"id":"eb79115006e63e63","x":60,"y":-355,"width":400,"height":400,"type":"file","file":"Who is Honey?.md"},
+		{"id":"f126aa924e66c114","x":-485,"y":80,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}
