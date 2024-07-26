@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "02873b1d1f86db46",
+        "id": "4010f6896a2d1223",
         "type": "tabs",
         "children": [
           {
-            "id": "e4c2000adb9f6aa7",
+            "id": "8d923f3b5cce8b9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mapje met vanalles/altijd die undefined.md",
+                "file": "Werkt de sync nog?.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mapje met vanalles/altijd die undefined.md",
+                "file": "Werkt de sync nog?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mapje met vanalles/altijd die undefined.md",
+                "file": "Werkt de sync nog?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mapje met vanalles/altijd die undefined.md"
+                "file": "Werkt de sync nog?.md"
               }
             }
           }
@@ -147,8 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79503eed53d32f65",
+  "active": "8d923f3b5cce8b9d",
   "lastOpenFiles": [
+    "Yoeho.md",
+    "zzzzzzzzzzzzeeeeeeg.md",
+    "Zoeloe.md",
+    "Who is Honey?.md",
+    "Werkt de sync nog?.md",
+    "Mapje met vanalles/Dit wordt niet meer gesynced Untitled.md",
+    "Mapje met vanalles/file in map.md",
+    "Mapje met vanalles/geen sync voor canvas.md",
+    "Mapje met vanalles/dat ben ik.md",
+    "Mapje met vanalles/altijd die undefined.md",
     "Mapje met vanalles/kurt de neve.md",
     "Mapje met vanalles/Maaaaar .. ik denk dat het werkt.md",
     "Mapje met vanalles/nieuw artikel 1.md",
@@ -156,26 +166,16 @@
     "Mapje met vanalles/sync met 1.md",
     "Mapje met vanalles/waarom toch.md",
     "Mapje met vanalles/wat gebeurt toch.md",
-    "Werkt de sync nog?.md",
     "Mapje met vanalles/Honey Fe Dela Cruz.md",
     "Mapje met vanalles/hallo ik ben kurt.md",
-    "Mapje met vanalles/Dit wordt niet meer gesynced Untitled.md",
-    "Mapje met vanalles/dat ben ik.md",
     "Mapje met vanalles/het werkt weer allez.md",
-    "Mapje met vanalles/altijd die undefined.md",
     "Werkt de sync nog?.sync-conflict-20240724-220907-MZXFVMV.md",
-    "Mapje met vanalles/geen sync voor canvas.md",
-    "Zoeloe.md",
-    "Yoeho.md",
     "aaabajaaa.md",
-    "Who is Honey?.md",
-    "zzzzzzzzzzzzeeeeeeg.md",
     "geen sync voor canvas.sync-conflict-20240722-224852-2OAFIRY.md",
     "geen sync voor canvas.sync-conflict-20240722-223452-MZXFVMV.md",
     "Mapje met vanalles/Canvas.canvas",
     "Mapje met vanalles/Artikel.md",
     "Mapje met vanalles/2de bestand in map.md",
-    "Mapje met vanalles/Pff die fucking Untitled.md",
     "Untitled",
     "Mapje met vanalles",
     "Obs on fedora"
