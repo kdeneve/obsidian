@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Who is Honey?.md",
+                "file": "Mapje met vanalles/altijd die undefined.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b44082e43a8625aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Who is Honey?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6b781aa7514ba46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ikke.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63e95745c729b6fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kuuuuuuuuuurt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fa2a68619a64cc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yiuyiyiy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -65,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Who is Honey?.md",
+                "file": "yiuyiyiy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Who is Honey?.md",
+                "file": "yiuyiyiy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Who is Honey?.md"
+                "file": "yiuyiyiy.md"
               }
             }
           }
@@ -148,11 +196,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d923f3b5cce8b9d",
+  "active": "4fa2a68619a64cc8",
   "lastOpenFiles": [
-    "Zoeloe.md",
-    "Werkt de sync nog?.md",
+    "kuuuuuuuuuurt.md",
+    "yiuyiyiy.md",
+    "ikke.md",
+    "heeeeelp.md",
     "Who is Honey?.md",
+    "Werkt de sync nog?.md",
+    "Mapje met vanalles/altijd die undefined.md",
+    "Mapje met vanalles/2de bestand in map.md",
+    "Zoeloe.md",
     "aaabajaaa.md",
     "Yoeho.md",
     "zzzzzzzzzzzzeeeeeeg.md",
@@ -160,7 +214,6 @@
     "Mapje met vanalles/file in map.md",
     "Mapje met vanalles/geen sync voor canvas.md",
     "Mapje met vanalles/dat ben ik.md",
-    "Mapje met vanalles/altijd die undefined.md",
     "Mapje met vanalles/kurt de neve.md",
     "Mapje met vanalles/Maaaaar .. ik denk dat het werkt.md",
     "Mapje met vanalles/nieuw artikel 1.md",
@@ -171,12 +224,7 @@
     "Mapje met vanalles/Honey Fe Dela Cruz.md",
     "Mapje met vanalles/hallo ik ben kurt.md",
     "Mapje met vanalles/het werkt weer allez.md",
-    "Werkt de sync nog?.sync-conflict-20240724-220907-MZXFVMV.md",
-    "geen sync voor canvas.sync-conflict-20240722-224852-2OAFIRY.md",
-    "geen sync voor canvas.sync-conflict-20240722-223452-MZXFVMV.md",
     "Mapje met vanalles/Canvas.canvas",
-    "Mapje met vanalles/Artikel.md",
-    "Mapje met vanalles/2de bestand in map.md",
     "Untitled",
     "Mapje met vanalles",
     "Obs on fedora"
