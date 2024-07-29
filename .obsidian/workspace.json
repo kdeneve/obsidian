@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Werkt de sync nog?.md",
+                "file": "Who is Honey?.md",
                 "mode": "preview",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Werkt de sync nog?.md",
+                "file": "Who is Honey?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Werkt de sync nog?.md",
+                "file": "Who is Honey?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Werkt de sync nog?.md"
+                "file": "Who is Honey?.md"
               }
             }
           }
@@ -149,11 +150,12 @@
   },
   "active": "8d923f3b5cce8b9d",
   "lastOpenFiles": [
+    "Zoeloe.md",
+    "Werkt de sync nog?.md",
+    "Who is Honey?.md",
+    "aaabajaaa.md",
     "Yoeho.md",
     "zzzzzzzzzzzzeeeeeeg.md",
-    "Zoeloe.md",
-    "Who is Honey?.md",
-    "Werkt de sync nog?.md",
     "Mapje met vanalles/Dit wordt niet meer gesynced Untitled.md",
     "Mapje met vanalles/file in map.md",
     "Mapje met vanalles/geen sync voor canvas.md",
@@ -170,7 +172,6 @@
     "Mapje met vanalles/hallo ik ben kurt.md",
     "Mapje met vanalles/het werkt weer allez.md",
     "Werkt de sync nog?.sync-conflict-20240724-220907-MZXFVMV.md",
-    "aaabajaaa.md",
     "geen sync voor canvas.sync-conflict-20240722-224852-2OAFIRY.md",
     "geen sync voor canvas.sync-conflict-20240722-223452-MZXFVMV.md",
     "Mapje met vanalles/Canvas.canvas",
